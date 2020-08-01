@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasKotlin1</string>
+    <string name="myprofile">My Profile</string>
+    <string name="erwin_paisal">Erwin Paisal</string>
+    <string name="erwinpaisalid">erwinpaisalid@gmail.com</string>
+    <string name="mywhatsapp">WhatsApp Saya</string>
+</resources>
