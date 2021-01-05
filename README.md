@@ -1,4 +1,4 @@
-# Tugas-Kotlin-Satu
+# Learning ListView In Kotlin
 
 ini merupakan project pertama pada course Kotlin From Zero To Hero Udacoding
 
@@ -15,7 +15,8 @@ berikut cuplikan tampilan aplikasi ini :
 3. Tampilan Halaman Profile
 ![Halaman_Profile](https://user-images.githubusercontent.com/63776459/89098660-b4bd6680-d413-11ea-92e8-32de47cb519a.jpg)
 
-TERIMA KASIH!! Jangan Lupa Follow IG Saya :
 
-1. https://www.instagram.com/erwinpaisal.id
-2. https://www.instagram.com/literasikoding
+
+TERIMA KASIH!!
+Untuk Inspirasi lain silahkan klik :
+https://biolinky.co/erwinpaisal
